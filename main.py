@@ -12,7 +12,7 @@ pygame.display.set_caption("Игра Тир")
 icon = pygame.image.load("img/тир.jpeg")
 pygame.display.set_icon(icon)
 
-target_img = pygame.image.load()
+target_img = pygame.image.load("img/target.png")
 taget_widht = 80
 taget_height = 80
 
