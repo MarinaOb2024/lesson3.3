@@ -1,4 +1,4 @@
-from turtledemo.nim import SCREENWIDTH, SCREENHEIGHT
+
 
 import pygame
 import random
